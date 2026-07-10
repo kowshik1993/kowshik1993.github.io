@@ -26,10 +26,10 @@ author:
   avatar           : "profile.jpeg"
   name             : "Kowshik Chowdhury"
   pronouns         : "he/him"  
-  bio              : "Cybersecurity"
+  bio              : "MS Cybersecurity student working in ASTRA lab under Dr. Peng Jiang | 8 years in IT securoty and infrastructure"
   location         : "Omaha, Nebraska, USA"
   employer         : "University of Nebraska at Omaha"
-  uri              : # URL
+  #uri              : # URL
   email            : "kowshikchowdhury.kc@gmail.com"
   email            : "kchowdhury@unomaha.edu"
 
