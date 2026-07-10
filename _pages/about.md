@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome|Kowshik Chowdhury"
+title: "Welcome-Kowshik Chowdhury"
 author_profile: true
 redirect_from: 
   - /about/
