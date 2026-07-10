@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Kowshik"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Kowshik Chowdhury"
 title_separator          : "-"
 name                     : &name "Kowshik Chowdhury"
 description              : &description "Kowshik Chowdhury"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,35 +23,36 @@ repository               : "kowshik1993/kowshik1993.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Kowshik Chowdhury"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Cybersecurity"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Omaha, Nebraska, USA"
+  employer         : "University of Nebraska at Omaha"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kowshikchowdhury.kc@gmail.com"
+  email            : "kchowdhury@unomaha.edu"
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  #academia         : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
+  #inspire-hep      : # URL
+  #impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #semantic         : # URL
+  #ssrn             : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  #scopus           : # URL
+  #zotero           : # URL
 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "kowshik1993"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
