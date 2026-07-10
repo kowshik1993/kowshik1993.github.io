@@ -42,7 +42,7 @@ author:
   #semantic         : # URL
   #ssrn             : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Kowsik-Chowdhury?ev=hdr_xprf"
   #scopus           : # URL
   #zotero           : # URL
 
@@ -56,8 +56,8 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  Linkedin       : "https://www.linkedin.com/in/kowshik-chowdhury-255035ab/"
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
