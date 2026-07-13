@@ -2,12 +2,12 @@
 links:
   main:
     - title: "About"
-      url: /
+      url: "/"
     - title: "CV"
-      url: /cv/
+      url: "/cv/"
     - title: "Research Projects"
-      url: /publications/
+      url: "/publications/"
     - title: "Achievements"
-      url: /talks/
+      url: "/talks/"
     - title: "Portfolio"
-      url: /portfolio/
+      url: "/portfolio/"
