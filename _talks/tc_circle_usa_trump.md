@@ -2,7 +2,7 @@
 title: "TC Circle Asia Pacific 2019 — Team Leader (USA Trump)"
 collection: presentation
 type: "Competition"
-permalink: /talks/2019-01-01-tc-circle-asia-pacific
+permalink: /talks/tc_circle_usa_trump
 venue: "TC Circle Asia Pacific"
 date: 2019-01-01
 location: "Bangkok, Thailand"
