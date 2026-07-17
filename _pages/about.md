@@ -17,12 +17,11 @@ My research at UNO’s ASTRA Lab focuses on UAV-based acoustic sensing, particul
 I am also working on multichannel audio watermarking project. We dveloped a machine learning model that will encode watermark orthogonally in multichannel audio and will be able to protect the copywrite intigrity of the audio recording.
 </div>
 ## Research Interests
-- **Artificial Intelligence and Machine Learning for real-world applications**
-- **Cybersecurity, Digital Forensics, and Secure System Development**
-- **Signal Processing, Intelligent Sensing, and Data-Driven Analysis**
-- **Cyber-Physical Systems, Autonomous Technologies, and the Internet of Things** 
-- **Real-Time Analytics, Edge Computing, and Intelligent Decision-Making**
-- **Interdisciplinary Technologies for public safety, security, and resilience**
+- Artificial Intelligence and Machine Learning for real-world applications
+- Cybersecurity, Digital Forensics, and Secure System Development
+- Signal Processing, Intelligent Sensing, and Data-Driven Analysis
+- Cyber-Physical Systems, Autonomous Technologies, and the Internet of Things
+- Interdisciplinary Technologies for public safety, security, and resilience
 
 ## Professional Background
 <div style="text-align: justify;">
