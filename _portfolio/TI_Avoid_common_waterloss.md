@@ -1,6 +1,6 @@
 ---
 title: "Central Locking System for Avoiding Common Water Loss"
-excerpt: "Embedded leak-detection system with automated valve control and alerting, sponsored by Texas Instruments. <br/><img src='/images/500x300.png'>"
+excerpt: "Embedded leak-detection system with automated valve control and alerting, sponsored by Texas Instruments. <br/><img src='/images/TI.png'>"
 collection: portfolio
 ---
 Engineered an embedded leak-detection system using sensors and microcontrollers, with automated valve control and alerting to prevent common water loss. Developed as a sponsored project through Texas Instruments and Visvesvaraya Technological University (December 2015).
