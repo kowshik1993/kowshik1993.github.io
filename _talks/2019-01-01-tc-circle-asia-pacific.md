@@ -1,6 +1,6 @@
 ---
-title: "TC Circle Asia Pacific 2019 — Team Leader"
-collection: talks
+title: "TC Circle Asia Pacific 2019 — Team Leader (USA Trump)"
+collection: presentation
 type: "Competition"
 permalink: /talks/2019-01-01-tc-circle-asia-pacific
 venue: "TC Circle Asia Pacific"
