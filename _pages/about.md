@@ -25,7 +25,7 @@ I am also working on multichannel audio watermarking project. We dveloped a mach
 
 ## Professional Background
 <div style="text-align: justify;">
-Before beginning my graduate studies, I spent more than eight years at **TSTECH Bangladesh Limited**, advancing from Junior Officer to Assistant Manager in Information Technology.
+Before beginning my graduate studies, I spent more than eight years at <strong>TSTECH Bangladesh Limited</strong>, advancing from Junior Officer to Assistant Manager in Information Technology.
 </div>
 <div style="text-align: justify;">
 During this time, I led and supported network-security audits, forensic-readiness assessments, access-control initiatives, and enterprise risk-mitigation activities. I managed secure, high-availability Oracle-based systems supporting real-time production operations and developed SQL-based tools for anomaly detection and operational analysis. I also coordinated ISO 9001 certification activities, compliance documentation, backup and recovery procedures, and organizational security-awareness programs.
