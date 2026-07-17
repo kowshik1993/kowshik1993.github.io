@@ -1,7 +1,7 @@
 ---
 title: "Watermarks That Survive: Band-Orthogonal Multi-Channel Audio Watermarking"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/BOMark
 excerpt: "BOMark is a band-orthogonal multichannel audio-watermarking framework designed to provide robust watermark recovery, high audio fidelity, and tamper localization under common signal-processing attacks."
 date: 2026-07-17
