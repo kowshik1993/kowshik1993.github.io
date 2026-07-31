@@ -5,7 +5,6 @@ category: conferences
 permalink: /publication/gunshot_classification
 excerpt: "A comparative study of convolutional, recurrent, and transformer architectures for fine-grained firearm identification from gunshot acoustic signatures."
 date: 2026-07-17
-venue: "Completed manuscript; planned for submission to a peer-reviewed conference"
 citation: "K. Chowdhury and P. Jiang, 'A Comparative Study of Convolutional, Recurrent, and Transformer Architectures with a Parameter-Efficient Patch Transformer,' unpublished manuscript, 2026."
 ---
 
@@ -17,4 +16,4 @@ The proposed Patch Transformer processes log-Mel spectrograms as non-overlapping
 
 The results indicate that the compact Patch Transformer provides a promising balance of classification accuracy, computational efficiency, and evaluation reliability for forensic analysis, public-safety acoustic monitoring, and edge-based firearm-identification systems.
 
-**Status:** Manuscript completed; not yet submitted.
+**Status:** Manuscript completed. Not yet submitted.
