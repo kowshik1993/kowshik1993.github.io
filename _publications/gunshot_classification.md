@@ -4,7 +4,6 @@ collection: publications
 category: conferences
 permalink: /publication/gunshot_classification
 excerpt: "A comparative study of convolutional, recurrent, and transformer architectures for fine-grained firearm identification from gunshot acoustic signatures."
-date: 2026-07-17
 citation: "K. Chowdhury and P. Jiang, 'A Comparative Study of Convolutional, Recurrent, and Transformer Architectures with a Parameter-Efficient Patch Transformer,' unpublished manuscript, 2026."
 ---
 
