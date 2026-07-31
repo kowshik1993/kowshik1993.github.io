@@ -4,8 +4,6 @@ collection: publications
 category: conferences
 permalink: /publication/BOMark
 excerpt: "BOMark is a band-orthogonal multichannel audio-watermarking framework designed to provide robust watermark recovery, high audio fidelity, and tamper localization under common signal-processing attacks."
-date: 2026-07-17
-venue: "Completed manuscript; intended for submission to the Network and Distributed System Security Symposium (NDSS)"
 citation: "K. Chowdhury and P. Jiang, 'Watermarks That Survive: Band-Orthogonal Multi-Channel Audio Watermarking,' unpublished manuscript, 2026."
 ---
 
@@ -15,4 +13,4 @@ The framework provides a configurable trade-off among watermark capacity, robust
 
 BOMark was evaluated against four single-stream audio-watermarking baselines—WavMark, IDEAW, Timbre, and AudioSeal—under common distortions including additive noise, compression, filtering, resampling, quantization, echo, and time stretching. At a 256-bit embedding budget, BOMark achieved a mean bit accuracy of **0.997** across the evaluated attacks, compared with **0.972** for WavMark, while maintaining an embedding SNR of **39.9 dB**. The framework was also evaluated using over-the-air recordings captured with a 16-microphone UMA-16 array.
 
-**Status:** Manuscript completed; not yet submitted.
+**Status:** Manuscript completed. Not yet published.
