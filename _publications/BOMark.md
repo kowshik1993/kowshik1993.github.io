@@ -4,6 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/BOMark
 venue: ''
+pubtype: 'Unpublished'
 excerpt: "BOMark is a band-orthogonal multichannel audio-watermarking framework designed to provide robust watermark recovery, high audio fidelity, and tamper localization under common signal-processing attacks."
 citation: "K. Chowdhury and P. Jiang, 'Watermarks That Survive: Band-Orthogonal Multi-Channel Audio Watermarking,"
 ---
