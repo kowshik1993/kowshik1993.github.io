@@ -1,6 +1,6 @@
 ---
-title: "Cisco Certified Network Administrator"
-excerpt: "I am a Cisco Certified Network Administrator. <br/><img src='/images/ccna.png'>"
+title: "ISO 9001:2015 Quality Managment System Certification"
+excerpt: "I am a certified ISO 9001:2015 QMS Internal Auditor. <br/><img src='/images/qms1.png'><img src='/images/qms2.png'>"
 collection: portfolio
 ---
 
